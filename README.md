@@ -1,5 +1,5 @@
 # 3-digit-7-segment-with-PIC16f677 with CCS(PCWHD) compiler 
-Here is the sample code for interfactin 3 digits 7 segments display. 
+Here is the sample code for interfacing 3 digits 7 segments display. 
 
 Connect C0 to C6 to the segment A to G.
 
